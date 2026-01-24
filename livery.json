@@ -422,7 +422,7 @@
               {
                   "name": "World2fly",
                   "texture": [
-                      "/models/aircraft/premium/a350/specular.jpg"
+                      "/models/aircraft/premium/a350/specular.jpg",
                       "https://cdn.discordapp.com/attachments/1086991627723227298/1454454096235856042/World2fly_A350-900.png?ex=697566ae&is=6974152e&hm=814a67ec88b94d49a645418ce4aabca994451ba12f5ae0490f315dc00c49de13&"
                   ],
                   "credits": "KN5290"
@@ -479,7 +479,7 @@
               {
                   "name": "Korean Air (200th Boeing Aircraft livery)",
                   "texture": [
-                      "/models/aircraft/premium/777_300/specular_0.jpg"
+                      "/models/aircraft/premium/777_300/specular_0.jpg",
                       "https://cdn.discordapp.com/attachments/1086991627723227298/1454086033208639701/Korean_Airlines_B777-300ER200th_BOEING_Aircraft.png?ex=69756165&is=69740fe5&hm=6c6744218f309ad4a51c54e22286b2c1d3da5611effbac73fe7cee1eb102c7bf"
                   ],
                   "credits": "CP8888＆KN5290"
@@ -918,8 +918,8 @@
               {
                   "name": "Air China Cargo",
                   "texture": [
-                      "/models/aircraft/premium/a350/specular.jpg"
-                      "https://cdn.discordapp.com/attachments/1086991627723227298/1461214221911068742/Air_China_Cargo_B747-400BCF.png?ex=69759aca&is=6974494a&hm=9123deea4dba319e1f310d15ab2b1e9596f5b4150c79fe4630aef1a97e9a37f2"
+                      "https://cdn.discordapp.com/attachments/1086991627723227298/1461214221911068742/Air_China_Cargo_B747-400BCF.png?ex=69759aca&is=6974494a&hm=9123deea4dba319e1f310d15ab2b1e9596f5b4150c79fe4630aef1a97e9a37f2",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
                   ],
                   "credits": "KN5290"
                }
