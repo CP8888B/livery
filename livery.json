@@ -31,6 +31,15 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
+              {
+                  "name": "SAS (old design)",
+                  "texture": [
+                      "/models/aircraft/premium/737_700/normal.jpg",
+                      "/models/aircraft/premium/737_700/specular.jpg",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-700/SASold. png"
+                   ],
+                   "credits": "CP8888"
+               }
             ],
             "labels": [
                 "Normal map",
@@ -246,6 +255,13 @@
         "2879": {
             "name": "Airbus a319-100",
             "liveries": [
+              {
+                  "name": "Turkish Airlines (Star Allience livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a319/TKstar.png"
+                  ],
+                  "credits": "CP8888"
+               }
             ],
             "labels": [
                 "Texture"
@@ -349,6 +365,13 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/China_ExpressB-324E.png"
                   ],
                   "credits": "CP8888"
+               },
+               {
+                  "name": "Xiamen Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/xiamen.png"
+                  ],
+                  "credits": "CP8888"
                }
             ],
             "labels": [
@@ -398,6 +421,20 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/CR_Airways.png"
                   ],
                   "credits": "一架山航的波音737"
+               },
+               {
+                  "name": "China United (Chengdu livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/CUAchengdu.png"
+                  ],
+                  "credits": "HO1796[Sino Wings Group]"
+               },
+               {
+                  "name": "Mandarin Airlines(new design)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/mandarin.png"
+                  ],
+                  "credits": "HO1796[Sino Wings Group]"
                }
             ],
             "labels": [
@@ -464,6 +501,14 @@
         "2706": {
             "name": "Bombardier CRJ200",
             "liveries": [
+              {
+                  "name": "Shandong Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/CRJ200/shandong.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/CRJ200/shandong.png"
+                  ],
+                  "credits": "CP8888"
+               }
             ],
             "labels": [
                 "Texture"
@@ -522,6 +567,34 @@
         "4646": {
             "name": "Airbus a321neo",
             "liveries": [
+              {
+                  "name": "Juneyao Airlines (Blessed Land Program livery)",
+                  "texture": [
+                  "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321neo/juneyaoblessedlandprogram.png"
+                  ],
+                  "credits": "HO1796[Sino Wings Group]"
+               },
+               {
+                  "name": "Shenzhen Airlines",
+                  "texture": [
+                  "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321neo/shenzhen.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "West Air",
+                  "texture": [
+                  "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321neo/WestAir.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "West Air (old radome)",
+                  "texture": [
+                  "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321neo/WestAiroldradome.png"
+                  ],
+                  "credits": "CP8888"
+               }
             ],
             "labels": [
                 "Texture"
@@ -766,6 +839,13 @@
         "5203": {
             "name": "Boeing b737-600",
             "liveries": [
+              {
+                  "name": "Air France",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-600/AirFrance.png"
+                  ],
+                  "credits": "CP8888"
+               }
             ],
             "labels": [
                 "Texture"
@@ -1017,6 +1097,13 @@
                   "name": "Cathay Pacific Cargo (80th Anniversary livery)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-8F/CXcargo80.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "UPS (ex Qatar Cargo)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-8F/UPSexqatar.png"
                   ],
                   "credits": "CP8888"
                }
