@@ -246,13 +246,6 @@
         "2879": {
             "name": "Airbus a319-100",
             "liveries": [
-              {
-                 "name": "Lufthansa (old design)",
-                 "texture": [
-                    "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/airbus_a319-100/LH319.png"
-                 ],
-                 "credits": "CP8888"
-              }
             ],
             "labels": [
                 "Texture"
@@ -572,13 +565,6 @@
         "5156": {
             "name": "Airbus a318-112",
             "liveries": [
-              {
-                 "name": "China Northern",
-                 "texture": [
-                    "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/airbus_a318-112/sunac.png"
-                 ],
-                 "credits": "HO1076[Sino Wings Group]"
-              }
             ],
             "labels": [
                 "Texture"
