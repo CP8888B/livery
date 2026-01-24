@@ -276,6 +276,13 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/MUHeadquarters.jpg"
                   ],
                   "credits": "KN5290"
+               },
+               {
+                  "name": "Hainan Airlines (Soyteax 5 star Skytrax livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/hainan5star.png"
+                  ],
+                  "credits": "TOMAIIM"
                }
             ],
             "labels": [
@@ -436,6 +443,13 @@
         "4631": {
             "name": "Airbus a330-900neo",
             "liveries": [
+              {
+                  "name": "Hainan Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a330-900neo/hainan.png"
+                  ],
+                  "credits": "TOMAIIM,CP8888＆HO1796[Sino Wings Group]"
+               }
             ],
             "labels": [
                 "Texture"
@@ -483,6 +497,14 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/Korean_200th.png"
                   ],
                   "credits": "CP8888＆KN5290"
+               },
+               {
+                  "name": "Korean Air (Expo 2030 Busan livery)",
+                  "texture": [
+                      "/models/aircraft/premium/777_300/specular_0.jpg",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/KEblackpink.png"
+                  ],
+                  "credits": "TOMAIIM"
                }
             ],
             "labels": [
@@ -556,6 +578,13 @@
         "5086": {
             "name": "Airbus a321-211",
             "liveries": [
+              {
+                  "name": "DHL (Operated by SmartLynx Cargo)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a321-211/DHLSmartLynxCargo.png"
+                  ],
+                  "credits": "Geofs Player Bilibili"
+               }
             ],
             "labels": [
                 "Texture"
@@ -838,6 +867,38 @@
         "4402": {
             "name": "Boeing b777-200F",
             "liveries": [
+              {
+                  "name": "China Cargo (China Eastern Cold Chain 10th Anniversary livery of theSouth America Fresh Express)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/MUcoldchain10th.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+               {
+                  "name": "Air China Cargo",
+                  "texture": [
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/CA.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+               {
+                  "name": "Air China Cargo (Red Cargo Font and Without a national flag)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/CAred.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+               {
+                  "name": "China Cargo (old design)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200f/shaders/original.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200f/MUold.png"
+                  ],
+                  "credits": "TOMAIIM"
+               }
             ],
             "labels": [
                 "Metallic Roughness shader",
@@ -922,7 +983,39 @@
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
                   ],
                   "credits": "KN5290"
-               }
+               },
+               {
+                  "name": "Japan Airlines (Solar arc livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/JALsolar.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+               {
+                  "name": "Japan Airlines (white nose)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/JALoldwhitenose.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+               {
+                  "name": "Japan Airlines (Yokoso Japan livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/JALyokoso.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "TOMAIIM"
+               },
+               {
+                  "name": "Suparna Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/suparna.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "CP8888"
+               },
             ],
             "labels": [
                 "Fuselage texture",
