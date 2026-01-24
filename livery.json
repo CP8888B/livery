@@ -283,6 +283,13 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/hainan5star.png"
                   ],
                   "credits": "TOMAIIM"
+               },
+               {
+                  "name": "ANA (Star Alliance livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-9/ANAstar.png"
+                  ],
+                  "credits": "CP8888"
                }
             ],
             "labels": [
@@ -292,6 +299,20 @@
         "3534": {
             "name": "Airbus a320-214",
             "liveries": [
+              {
+                  "name": "Spring Airlines (HOROYOI livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/springhoroyoI.png"
+                  ],
+                  "credits": "一架山航的波音737"
+               },
+               {
+                  "name": "Qingdao Airlines (Wonderful Jilin livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320-214/qingdaowonderfuljilin.png"
+                  ],
+                  "credits": "一架山航的波音737"
+               }
             ],
             "labels": [
                 "Texture"
@@ -308,6 +329,27 @@
         "2871": {
             "name": "Airbus a320neo",
             "liveries": [
+              {
+                  "name": "Qingdao Airlines (Jinghong livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/qingdaojinghong.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "Colorful Guizhou Airlines (China Moutai livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/GY_moutai.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "China Express (Oriental Fumigation Dao, the Extraordinary Dao livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a320neo/China_ExpressB-324E.png"
+                  ],
+                  "credits": "CP8888"
+               }
             ],
             "labels": [
                 "Texture"
@@ -350,6 +392,13 @@
         "3054": {
             "name": "Boeing b737-800",
             "liveries": [
+              {
+                  "name": "CR airways (white livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/CR_Airways.png"
+                  ],
+                  "credits": "一架山航的波音737"
+               }
             ],
             "labels": [
                 "Texture"
@@ -390,6 +439,13 @@
         "2892": {
             "name": "SAAB 340",
             "liveries": [
+              {
+                  "name": "UN",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/SAAB340/UN.png"
+                  ],
+                  "credits": "HO1796[Sino Wings Group]"
+               }
             ],
             "labels": [
                 "Texture"
@@ -433,6 +489,14 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/World2fly.png"
                   ],
                   "credits": "KN5290"
+               },
+               {
+                  "name": "Finnair (Santa Claus livery)",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a350-900/FinnairSantaClaus.png"
+                  ],
+                  "credits": "CP8888"
                }
             ],
             "labels": [
@@ -798,6 +862,13 @@
         "3011": {
             "name": "Airbus a320-232",
             "liveries": [
+              {
+                  "name": "Chongqing Airlines",
+                  "texture": [
+                      "https://i.ibb.co/23r2t1YV/chongqing.png"
+                  ],
+                  "credits": "CP8888"
+               }
             ],
             "labels": [
                 "Texture"
@@ -849,6 +920,14 @@
         "240": {
             "name": "Boeing b777-200",
             "liveries": [
+              {
+                  "name": "Mahan Air",
+                  "texture": [
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/original.png",
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-200/mahan.png"
+                  ],
+                  "credits": "CP8888"
+               }
             ],
             "labels": [
                 "Metallic Roughness shader",
@@ -934,6 +1013,13 @@
         "252": {
             "name": "Boeing b747-8F",
             "liveries": [
+              {
+                  "name": "Cathay Pacific Cargo (80th Anniversary livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-8F/CXcargo80.png"
+                  ],
+                  "credits": "CP8888"
+               }
             ],
             "labels": [
                 "Texture"
@@ -1012,6 +1098,30 @@
                   "name": "Suparna Airlines",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/suparna.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "UPS",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/UPS.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "China Airlines (SkyTeam livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/CIsky.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "KLM (old livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/KLMold.png",
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
                   ],
                   "credits": "CP8888"
