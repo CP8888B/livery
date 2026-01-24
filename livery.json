@@ -270,6 +270,13 @@
         "3575": {
             "name": "Boeing b787-9",
             "liveries": [
+              {
+                  "name": "China Eastern (Headquarters)",
+                  "texture": [
+                      "https://cdn.discordapp.com/attachments/1086991627723227298/1449255312111435846/image.jpg?ex=69759ab0&is=69744930&hm=c66e333434e0b8cfac4e4cdfe9fb92ded995f328f7e3ff944b890ee773f119b1&"
+                  ],
+                  "credits": "KN5290"
+               }
             ],
             "labels": [
                 "Texture"
@@ -412,6 +419,14 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
+              {
+                  "name": "World2fly",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg"
+                      "https://cdn.discordapp.com/attachments/1086991627723227298/1454454096235856042/World2fly_A350-900.png?ex=697566ae&is=6974152e&hm=814a67ec88b94d49a645418ce4aabca994451ba12f5ae0490f315dc00c49de13&"
+                  ],
+                  "credits": "KN5290"
+               }
             ],
             "labels": [
                 "Specular shader",
@@ -461,6 +476,14 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
+              {
+                  "name": "Korean Air (200th Boeing Aircraft livery)",
+                  "texture": [
+                      "/models/aircraft/premium/777_300/specular_0.jpg"
+                      "https://cdn.discordapp.com/attachments/1086991627723227298/1454086033208639701/Korean_Airlines_B777-300ER200th_BOEING_Aircraft.png?ex=69756165&is=69740fe5&hm=6c6744218f309ad4a51c54e22286b2c1d3da5611effbac73fe7cee1eb102c7bf"
+                  ],
+                  "credits": "CP8888＆KN5290"
+               }
             ],
             "labels": [
                 "Specular shader",
@@ -549,6 +572,20 @@
         "2856": {
             "name": "Airbus a330-200",
             "liveries": [
+              {
+                  "name": "China Eastern (50th A330 for China Eastern)",
+                  "texture": [
+                      "https://cdn.discordapp.com/attachments/1086991627723227298/1449371029980971088/China_Eastern50th_A330A330-200.png?ex=69755db5&is=69740c35&hm=c48872ba27b4dbd69addd220effb1012b3491a3bfe3cfc5b402b1600178c5cab&"
+                  ],
+                  "credits": "KN5290＆CP8888"
+               },
+               {
+                  "name": "Air China Cargo",
+                  "texture": [
+                      "https://cdn.discordapp.com/attachments/1086991627723227298/1451528589387235338/Air_China_Cargo_A330-200_P2F.png?ex=69754e17&is=6973fc97&hm=ee182b404f40bdecb94d38445c06e55a05313a6f639394931971090ab3e8087a&"
+                  ],
+                  "credits": "KN5290"
+               }
             ],
             "labels": [
                 "Texture"
@@ -873,6 +910,23 @@
             ],
             "labels": [
                 "Texture"
+            ]
+        },
+        "5527": {
+            "name": "Boeing B747-400",
+            "liveries": [
+              {
+                  "name": "Air China Cargo",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg"
+                      "https://cdn.discordapp.com/attachments/1086991627723227298/1461214221911068742/Air_China_Cargo_B747-400BCF.png?ex=69759aca&is=6974494a&hm=9123deea4dba319e1f310d15ab2b1e9596f5b4150c79fe4630aef1a97e9a37f2"
+                  ],
+                  "credits": "KN5290"
+               }
+            ],
+            "labels": [
+                "Fuselage texture",
+                "Wing texture"
             ]
         }
     }
