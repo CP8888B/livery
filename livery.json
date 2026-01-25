@@ -409,6 +409,13 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-10/koreanblankpink.png"
                    ],
                    "credits": "TOMAIIM"
+               },
+               {
+                  "name": "Singapore Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b787-10/SQ.png"
+                   ],
+                   "credits": "CP8888"
                }
             ],
             "labels": [
@@ -456,6 +463,13 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/mandarin.png"
                   ],
                   "credits": "HO1796[Sino Wings Group]"
+               },
+               {
+                  "name": "Hebei Airlines (20th aircraft livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737-800/hebei20th.png"
+                  ],
+                  "credits": "CP8888"
                }
             ],
             "labels": [
