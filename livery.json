@@ -261,6 +261,13 @@
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a319/TKstar.png"
                   ],
                   "credits": "CP8888"
+               },
+               {
+                  "name": "China Northeast Airlines",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Airbus_a319/NS.png"
+                  ],
+                  "credits": "CP8888"
                }
             ],
             "labels": [
@@ -381,6 +388,13 @@
         "2769": {
             "name": "Boeing b737-MAX8",
             "liveries": [
+              {
+                  "name": "Shandong Airlines (CAQ livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b737max8/shandongCAQ.png"
+                  ],
+                  "credits": "HO1796[Sino Wings Group]"
+               }
             ],
             "labels": [
                 "Texture"
