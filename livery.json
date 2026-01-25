@@ -652,7 +652,7 @@
                   "name": "Korean Air (200th Boeing Aircraft livery)",
                   "texture": [
                       "/models/aircraft/premium/777_300/specular_0.jpg",
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/Korean_200th.png"
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b777-300/Korean200th.png"
                   ],
                   "credits": "CP8888＆KN5290"
                },
@@ -1243,3 +1243,4 @@
     }
 
 }
+
