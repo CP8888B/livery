@@ -1179,6 +1179,30 @@
                   "credits": "KN5290"
                },
                {
+                  "name": "China Airlines (Skyteam livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/CIsky.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "KLM (old livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/KLMold.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
+                  "name": "KLM (new livery)",
+                  "texture": [
+                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/KLMnew.png",
+                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                  ],
+                  "credits": "CP8888"
+               },
+               {
                   "name": "Japan Airlines (Solar arc livery)",
                   "texture": [
                       "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/JALsolar.png",
@@ -1217,22 +1241,6 @@
                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
                   ],
                   "credits": "CP8888"
-               },
-               {
-                  "name": "China Airlines (SkyTeam livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/CIsky.png",
-                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
-                  ],
-                  "credits": "CP8888"
-               },
-               {
-                  "name": "KLM (old livery)",
-                  "texture": [
-                      "https://raw.githubusercontent.com/CCA131488/livery/refs/heads/main/liveries/Boeing_b747-400/KLMold.png",
-                      "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
-                  ],
-                  "credits": "CP8888"
                }
             ],
             "labels": [
@@ -1241,5 +1249,4 @@
             ]
         }
     }
-
 }
